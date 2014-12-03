@@ -1,0 +1,4 @@
+language: python
+script: app.py
+ignore_files:
+  - ./vEnv
